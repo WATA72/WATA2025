@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="" tv-test="WATA.m3u"
-#EXTINF:-1 tvg-id="CANAL DIPLOMATICO" tvg-name="CANAL DIPLOMATICO" tvg-logo="https://www.canaldiplomatico.com/canal-diplomatico.png", CANAL DIPLOMATICO | VE
+#EXTINF:-1 tvg-id="CANALDIPLOMATICO" tvg-name="CANAL DIPLOMATICO" tvg-logo="https://www.canaldiplomatico.com/canal-diplomatico.png", CANAL DIPLOMATICO | VE
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
-#EXTINF:-1 tvg-id="PLTV" tvg-name="CANAL PLTV" tvg-logo="https://i.imgur.com/ftblZ6f.jpg", CANAL PLTV | VE
+#EXTINF:-1 tvg-id="CANALPLTV" tvg-name="CANAL PLTV" tvg-logo="https://i.imgur.com/ftblZ6f.jpg", CANAL PLTV | VE
 https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AGUACATE TV" tvg-name="AGUACATE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJ4gJN4j0cMllLd8BbRyJOgK8oabXMJp4g&s", AGUACATE TV | VE
+#EXTINF:-1 tvg-id="AGUACATETV" tvg-name="AGUACATE TV" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png", AGUACATE TV | VE
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GUARO TV" tvg-name="GUARO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5qXx1B7l0vGVDotC1I7lExBDj2Y_10uyhA&s", GUARO TV | VE
+#EXTINF:-1 tvg-id="GUAROTV" tvg-name="GUARO TV" tvg-logo="https://i0.wp.com/guarotv.net/wp-content/uploads/2024/08/LOGO-Y-TEXTO-CON-BORDE.pnghttps://i0.wp.com/guarotv.net/wp-content/uploads/2024/08/LOGO-Y-TEXTO-CON-BORDE.png", GUARO TV | VE
 https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
-#EXTINF:-1 tvg-id=" INTER TV" tvg-name=" INTER TV" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", INTER TV | VE
+#EXTINF:-1 tvg-id="INTERTV" tvg-name=" INTER TV" tvg-logo="https://s2.glbimg.com/sNGhjO6YBj3MUPp79meRxL46zFY=/620x455/s.glbimg.com/og/rg/f/original/2016/03/15/12773249_10204406464881417_690675563_o.jpg", INTER TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-#EXTINF:-1 tvg-id=" MAS TALK" tvg-name="MAS TALK" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", MAS TALK | VE
+#EXTINF:-1 tvg-id="MASTALK" tvg-name="MAS TALK" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/03/230016-google-cierra-talk-su-servicio-mensajeria-mas-veterano.jpg", MAS TALK | VE
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
